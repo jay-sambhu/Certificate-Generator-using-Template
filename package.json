@@ -21,7 +21,10 @@
     "zod": "3.22.4",
     "html2pdf.js": "0.10.1",
     "puppeteer": "22.11.0",
-    "react-hot-toast": "2.4.1"
+    "react-hot-toast": "2.4.1",
+    "@supabase/supabase-js": "^2.39.0",
+    "@supabase/ssr": "^2.39.0",
+    "@next-auth/supabase-adapter": "^0.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.30",
